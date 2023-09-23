@@ -1,5 +1,8 @@
 #include "stdio.h"
 
 int main(void){
-    printf("This is Thach");
+
+    printf("Canh tay");
+
+    return 0;
 }
