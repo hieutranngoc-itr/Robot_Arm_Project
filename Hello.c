@@ -1,6 +1,7 @@
 #include "stdio.h"
 
 int main(void){
+
     int *ptr;
     int arr[5] = {};
     for (int j = 0; j < 5; j++){
@@ -16,5 +17,7 @@ int main(void){
         printf("i = %d\n", &i);
     }
     */
-    return 0;
+    printf("Canh tay\n");
+    printf("Canh tay 2");
+
 }
